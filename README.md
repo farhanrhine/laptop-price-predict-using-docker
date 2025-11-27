@@ -65,7 +65,3 @@ A machine learning-powered web application that predicts laptop prices based on 
 ## Dataset
 
 The model is trained on `laptop_data.csv` containing various laptop specifications and their prices.
-
-## License
-
-This project is open source and available under the MIT License.
